@@ -1,0 +1,14 @@
+{
+	"arrowParens": "always",
+	"printWidth": 100,
+	"semi": false,
+	"trailingComma": "none",
+	"jsxSingleQuote": true,
+	"singleQuote": true,
+	"useTabs": true,
+	"tabWidth": 2,
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"importOrderGroupNamespaceSpecifiers": true,
+	"importOrderCaseInsensitive": true
+}
